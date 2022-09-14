@@ -1,7 +1,7 @@
 # Dataset Duplicate Finder
 It is a script for detecting and deleting duplicate images in a dataset.
-
 <hr>
+
 ## Usage
 Create a folder named dataset (if doesn't exists). Then, put your images in that folder. The script will automatically detect duplicate images in your dataset.
 
